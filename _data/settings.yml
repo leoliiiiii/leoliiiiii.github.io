@@ -1,5 +1,5 @@
 menu:
-- {name: 'cv', url: '/cv'}
+# - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 social:
