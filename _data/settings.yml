@@ -8,4 +8,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/zhihan-li-126429192/'}
 
 contacts:
-- {phone: '(408) 427-1658', email: 'zhihanli@andrew.cmu.edu', addrss: '6105 Spirit St, Pittsburgh, PA', image: 'assets/img/contact.jpg'}
+- {phone: '(408) 427-1658', email: 'zhihanli@andrew.cmu.edu', address: '6105 Spirit St, Pittsburgh, PA', image: 'assets/img/contact.jpg'}
