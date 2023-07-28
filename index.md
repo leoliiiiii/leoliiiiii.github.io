@@ -3,10 +3,10 @@ layout: home
 title: "Home"
 ---
 
-Welcome to my home page!
+# Welcome to My Home Page!
 
-I'm Leo. I'm a master student at Carnegie Mellon University and working as a machine learning engineer intern at [ScriptChain Health](https://scriptchain.co/home).
+I'm Leo, a master student at Carnegie Mellon University with with my study focusing in big data and machine learning. I'm currently contributing my expertise as a Machine Learning Engineer Intern at [ScriptChain Health](https://scriptchain.co/home), working on cutting-edge projects that make a difference in dealing with Cardiovascular diseases.
 
-Before entering Carnegie Mellon University, I earned my B.A. in Data Science and Applied Mathematics at UC Berkeley.
+Before entering Carnegie Mellon University, I earned my B.A. in Data Science and Applied Mathematics from UC Berkeley.
 
-Currently, I'm looking for full-time opportunities in machine learning and data science. Here is my [Resume](/assets/resume.pdf)
+My journey in the realm of data science and machine learning has been nothing short of thrilling. Now, I am eagerly seeking full-time opportunities that allow me to dive even deeper into this dynamic field. Here is my [Resume](/assets/resume.pdf)
