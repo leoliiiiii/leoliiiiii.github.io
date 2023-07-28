@@ -9,4 +9,4 @@ I'm Leo, a master student at Carnegie Mellon University specializing in big data
 
 My journey in machine learning and big data has been thrilling, and now I'm eager to pursue full-time opportunities to delve deeper into this dynamic field. Here is my [Resume](/assets/resume.pdf)
 
-Feel free to get in touch to explore potential collaborations and opportunities!
+Feel free to get in touch for collaborations and opportunities!
